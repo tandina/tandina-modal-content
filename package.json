@@ -1,6 +1,6 @@
 {
   "name": "tandina-modal-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a react component that accept a function to display the modal, to close it and to add a custom message",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
