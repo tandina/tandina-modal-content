@@ -4,6 +4,8 @@ This project contain the code of a modal you can customize and test on storybook
 
 npm i tandina-modal-content
 
+https://www.npmjs.com/package/tandina-modal-content
+
 ******************************
 DevDepedencies
 ******************************
