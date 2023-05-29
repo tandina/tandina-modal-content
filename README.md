@@ -33,8 +33,8 @@ DevDepedencies
     "build-storybook": "storybook build",
     "build-lib": "rollup -c"
 
-### `npm build-storybook`
-to create a storybook, it's will create a react project environement and automaticly start to display this projet at this adress http://localhost:6006 and allow you to test the component
+### `npm run storybook`
+to run a storybook, it's will start a react project environement and automaticly start to display this projet at this adress http://localhost:6006 and allow you to test the component
 
 ### `npm build-lib`
 will minify the project in two file, one for all browsers and on es file ecma file for old browsers
